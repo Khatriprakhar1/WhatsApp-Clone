@@ -1,5 +1,3 @@
-Here's a sample README message for your GitHub project:
-
 ---
 
 # WhatsApp Clone - Responsive Design
